@@ -1,0 +1,6 @@
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.AssemblyInfoInputs.cache
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.AssemblyInfo.cs
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.csproj.CoreCompileInputs.cache
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.MvcApplicationPartsAssemblyInfo.cache
+G:\Dott_Net_Project\Asp.net-core\Asp.net-core\obj\Debug\net8.0\Asp.net-core.csproj.AssemblyReference.cache

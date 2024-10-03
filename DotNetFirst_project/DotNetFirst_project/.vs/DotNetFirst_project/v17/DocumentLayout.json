@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Dott_Net_Project\\DotNetFirst_project\\DotNetFirst_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Dott_Net_Project\\DotNetFirst_project\\DotNetFirst_project\\DotNetFirst_project.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DotNetFirst_project.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DotNetFirst_project.csproj.user",
+              "DocumentMoniker": "G:\\Dott_Net_Project\\DotNetFirst_project\\DotNetFirst_project\\DotNetFirst_project.csproj.user",
+              "RelativeDocumentMoniker": "DotNetFirst_project.csproj.user",
+              "ToolTip": "G:\\Dott_Net_Project\\DotNetFirst_project\\DotNetFirst_project\\DotNetFirst_project.csproj.user",
+              "RelativeToolTip": "DotNetFirst_project.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-09-30T18:48:58.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
